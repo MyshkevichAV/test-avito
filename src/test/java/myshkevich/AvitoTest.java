@@ -1,6 +1,7 @@
 package myshkevich;
 
-import by.academy.myshkevich.page.AvitoPage;
+
+import myshkevich.page.AvitoPage;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

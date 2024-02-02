@@ -1,6 +1,7 @@
 package myshkevich;
 
-import by.academy.myshkevich.driver.SingletonDriver;
+
+import myshkevich.driver.SingletonDriver;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.WebDriver;

@@ -1,13 +1,14 @@
 package myshkevich.page;
 
 import by.academy.myshkevich.data.RandomData;
-import by.academy.myshkevich.data.UserData;
-import by.academy.myshkevich.driver.SingletonDriver;
-import by.academy.myshkevich.resources.Wait;
+import myshkevich.data.UserData;
+import myshkevich.driver.SingletonDriver;
+import myshkevich.resources.Wait;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import java.time.Duration;
 
