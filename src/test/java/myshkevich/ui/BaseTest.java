@@ -1,4 +1,4 @@
-package myshkevich;
+package myshkevich.ui;
 
 
 import myshkevich.driver.SingletonDriver;

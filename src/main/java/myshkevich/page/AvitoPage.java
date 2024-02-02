@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class AvitoPage {
-        WebDriver driver;
+    WebDriver driver;
     WebDriverWait wait = new WebDriverWait(SingletonDriver.getDriver(), Duration.ofSeconds(10));
 
     public AvitoPage() throws InterruptedException {
