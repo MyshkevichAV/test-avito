@@ -1,6 +1,6 @@
 package myshkevich.page;
 
-import by.academy.myshkevich.data.RandomData;
+import myshkevich.data.RandomData;
 import myshkevich.data.UserData;
 import myshkevich.driver.SingletonDriver;
 import myshkevich.resources.Wait;

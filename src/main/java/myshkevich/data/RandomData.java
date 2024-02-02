@@ -1,4 +1,4 @@
-package by.academy.myshkevich.data;
+package myshkevich.data;
 
 import org.apache.commons.lang3.RandomStringUtils;
 
