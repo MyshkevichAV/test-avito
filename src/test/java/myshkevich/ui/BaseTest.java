@@ -10,7 +10,7 @@ public class BaseTest {
     @BeforeEach
     public void start() throws InterruptedException {
         WebDriver driver = SingletonDriver.getDriver();
-     //   driver.get("https://www.avito.ru/");
+        //   driver.get("https://www.avito.ru/");
     }
 
     @AfterEach

@@ -22,7 +22,7 @@ public class AvitoPage {
 
     public void openHomePage() {
         driver.get("https://www.avito.ru/");
-        Wait.waitFor(5);
+        Wait.waitFor(4);
     }
 
     public void clickButtonEnterRegistration() {
@@ -37,7 +37,7 @@ public class AvitoPage {
 
     public void clickInputPassword() {
         driver.findElement(By.xpath(AvitoPageLocator.inputPasswordLocator)).click();
-        Wait.waitFor(4);
+        Wait.waitFor(5);
     }
 
     public void sendKeysInputPassword() {

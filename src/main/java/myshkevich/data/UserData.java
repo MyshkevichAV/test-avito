@@ -3,7 +3,7 @@ package myshkevich.data;
 import com.github.javafaker.Faker;
 
 public class UserData {
-    private static Faker faker = new Faker();
+    private static final Faker faker = new Faker();
 
     public static String getRandomDataIncorrectEmail() {
         return faker.internet().password() + "@test.com";
