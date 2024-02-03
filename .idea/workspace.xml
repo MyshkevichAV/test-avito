@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ce1931b-9bdc-4c75-aaab-1809f4283d19" name="Changes" comment="add changes4">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myshkevich/data/RandomData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myshkevich/data/RandomData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myshkevich/data/UserData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myshkevich/data/UserData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myshkevich/page/AvitoPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myshkevich/page/AvitoPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myshkevich/ui/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myshkevich/ui/BaseTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2boLLOnN613KMvNGN760VaKzGXy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Sasha/src/test-avito&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Sasha\src\test-avito" />
+      <recent name="D:\Sasha\src\test-avito\src\test\java" />
+      <recent name="D:\Sasha\src\test-avito\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Sasha\src\test-avito\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AvitoTest.testSearchStringPage">
+    <configuration name="AvitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-avito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myshkevich.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myshkevich.ui" />
+      <option name="MAIN_CLASS_NAME" value="myshkevich.ui.AvitoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvitoTest.testLoginCheckPhonePost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-avito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myshkevich.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myshkevich.ui" />
+      <option name="MAIN_CLASS_NAME" value="myshkevich.ui.AvitoTest" />
+      <option name="METHOD_NAME" value="testLoginCheckPhonePost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvitoTest.testLoginCheckWithoutPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-avito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myshkevich.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myshkevich.ui" />
+      <option name="MAIN_CLASS_NAME" value="myshkevich.ui.AvitoTest" />
+      <option name="METHOD_NAME" value="testLoginCheckWithoutPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvitoTest.testLoginCheckWithoutPhonePost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-avito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myshkevich.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myshkevich.ui" />
+      <option name="MAIN_CLASS_NAME" value="myshkevich.ui.AvitoTest" />
+      <option name="METHOD_NAME" value="testLoginCheckWithoutPhonePost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvitoTest.testSearchStringPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-avito" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myshkevich.ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="myshkevich.ui" />
+      <option name="MAIN_CLASS_NAME" value="myshkevich.ui.AvitoTest" />
+      <option name="METHOD_NAME" value="testSearchStringPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="test-avito" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="test-avito" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AvitoTest.testSearchStringPage" />
+        <item itemvalue="JUnit.AvitoTest.testLoginCheckPhonePost" />
+        <item itemvalue="JUnit.AvitoTest" />
+        <item itemvalue="JUnit.AvitoTest.testLoginCheckWithoutPassword" />
+        <item itemvalue="JUnit.AvitoTest.testLoginCheckWithoutPhonePost" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ce1931b-9bdc-4c75-aaab-1809f4283d19" name="Changes" comment="" />
+      <created>1706876434548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706876434548</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1706876627352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706876627352</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add changes">
+      <option name="closed" value="true" />
+      <created>1706877154860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706877154860</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add changes2">
+      <option name="closed" value="true" />
+      <created>1706877304222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706877304222</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add changes3">
+      <option name="closed" value="true" />
+      <created>1706878530750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706878530750</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add changes4">
+      <option name="closed" value="true" />
+      <created>1706880214808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706880214808</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <MESSAGE value="add changes" />
+    <MESSAGE value="add changes2" />
+    <MESSAGE value="add changes3" />
+    <MESSAGE value="add changes4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add changes4" />
+  </component>
+</project>
